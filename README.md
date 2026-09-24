@@ -36,3 +36,11 @@ curso/trilhaN/modulo-N-M.html  # Módulos
 ```
 
 Construído no formato visual INEMA.CLUB (dark/light, responsivo). © 2026 INEMA.CLUB.
+
+<!-- inema-backlink:v1 -->
+## Mais no INEMA.CLUB
+
+- [Ficha completa deste curso](https://www.inema.club/cursos/134-formacao-em-automacao-estrategica-com-ia/)
+- [Guia: como aprender inteligência artificial](https://www.inema.club/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.inema.club/cursos/)
+<!-- /inema-backlink:v1 -->
